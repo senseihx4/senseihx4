@@ -37,15 +37,14 @@ Currently interning as a Python Full Stack Developer and diving deep into AI/ML.
 
 ## 📈 GitHub Stats
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senseihx4&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senseihx4&layout=compact&hide_border=true)
-
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senseihx4&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senseihx4&layout=compact&hide_border=true&langs_count=6)
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/kartik-sharma-023a85322/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kartiksharma7717@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-sharma-023a85322/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
 
 ---
 
