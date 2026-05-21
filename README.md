@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi there, I'm Kartik Sharma 👋
-### Python Full Stack Developer | Django & DRF | AI/ML Explorer
+### Python Full Stack Developer | Django & DRF | AI/ML Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BCA+Graduate+%F0%9F%8E%93;Python+Full+Stack+Developer+Intern+%F0%9F%92%BC;Building+real-world+projects+from+scratch+%F0%9F%94%A8;Exploring+AI%2FML+%F0%9F%A4%96;Open+to+SDE+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=BCA+Graduate+%F0%9F%8E%93;Python+Full+Stack+Developer+Intern+%F0%9F%92%BC;Building+real-world+projects+from+scratch+%F0%9F%94%A8;9+ML+Bootcamps+Completed+%F0%9F%A4%96;LSTM+%7C+CNNs+%7C+Unsupervised+ML+%7C+Trading+Bots;Open+to+SDE+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,8 @@
 
 - 🎓 **BCA Graduate** — built every project from scratch, no tutorials, no shortcuts
 - 💼 Currently working as a **Python Full Stack Developer Intern**
-- 🤖 Actively exploring **AI/ML** — from audio transcription to intelligent APIs
+- 🤖 Completed **9 ML Bootcamps** — from Linear Regression all the way to LSTM trading bots
+- 🧠 Deep dived into **Classical ML → Deep Learning → CNNs → Time Series** with real deployed projects
 - 🌱 Every repo on this profile is a **real-world problem I solved**, not a tutorial clone (okay, except Netflix 😄)
 - 🎯 **Goal**: Land a Software Development Engineer role at a product-driven company
 - 📍 Based in **India**
@@ -31,7 +32,16 @@
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenAI Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,11 +49,28 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Currently Exploring
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-43B02A?style=for-the-badge&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Alpaca API](https://img.shields.io/badge/Alpaca%20Markets-FFCD00?style=for-the-badge&logo=python&logoColor=black)
+
+---
+
+## 🤖 My ML Journey — 9 Bootcamps Completed
+
+| # | Bootcamp | Project Built | Key Concepts |
+|---|----------|--------------|--------------|
+| 1 | **Linear Regression** | Car Price Prediction (NumPy from scratch) | Gradient descent, feature engineering |
+| 2 | **Logistic Regression** | Churn Prediction | Classification, sigmoid, decision boundary |
+| 3 | **Decision Trees + RF + XGBoost** | Model comparison & deployment | Ensemble methods, overfitting, R²=0.94 |
+| 4 | **KNN + Naive Bayes + SVM** | — | Distance metrics, kernels, probabilistic models |
+| 5 | **Unsupervised Learning** | Stock Market Clustering (90 stocks) | K-Means, PCA, DBSCAN, t-SNE, silhouette score |
+| 6 | **Neural Networks + PyTorch** | — | Tensors, autograd, training loops, MLP |
+| 7 | **CNNs** | CIFAR-10 Image Classifier (ResNet18/50) | Transfer learning, fine-tuning, 83% accuracy |
+| 8 | **LSTM / RNN** | Stock Trading Bot (Alpaca API) | Time series, sequence modelling, directional accuracy |
+| 9 | **Web Scraping** | *(completing now 🔨)* | BeautifulSoup / Selenium, data pipelines |
 
 ---
 
@@ -53,11 +80,23 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| ⚡ [**Motor-Volt**](https://github.com/senseihx4/Motor-Volt) | Full Django car sales platform — OTP email auth, listings, admin dashboard, **AI price predictor** — **[live on Render](https://motor-volt.onrender.com)** | Django, DRF, Brevo API, ML |
 | 🧚 [**fairy-club**](https://github.com/senseihx4/fairy-club) | Full-stack Django community platform with **auth, memberships, podcasts & global mail** | Django, CSS, SQL |
-| ⚡ [**Motor-Volt**](https://github.com/senseihx4/Motor-Volt) | Multi-page EV/automotive website with responsive design | HTML, CSS |
 | 🎾 [**Sports Court Booking**](https://github.com/senseihx4/-sports-court-booking) | Django court reservation system with **booking & slot management** | Django, Python |
-| 🎬 [**Netflix Clone**](https://github.com/senseihx4/Netflix-clone-) | Pixel-perfect Netflix landing page clone using pure HTML & CSS | HTML, CSS |
+| 🎬 [**Netflix Clone**](https://github.com/senseihx4/Netflix-clone-) | Pixel-perfect Netflix landing page clone | HTML, CSS |
 | 🖥️ [**AnyDesk Clone**](https://github.com/senseihx4/anydesk-clone) | Remote desktop app built with **Python socket programming** | Python, Sockets |
+
+### 🤖 AI / ML Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 📈 [**Stock Trading Bot**](https://github.com/senseihx4/automatic-stock-trading-bot) | LSTM neural net predicts stock direction → places real paper orders via Alpaca API · **FastAPI server** · BUY signal accuracy: 57.8% | PyTorch, FastAPI, Alpaca API, yfinance |
+| 🖼️ [**Image Tester CNN**](https://github.com/senseihx4/Image-tester-cnn-project) | CIFAR-10 classifier fine-tuning **ResNet18 (~80%)** and **ResNet50 (~83%)** on 10 image categories | PyTorch, torchvision, Apple MPS |
+| 📊 [**Stock Market Clustering**](https://github.com/senseihx4/stock-market-clustering-unsupervised-ml) | Discovers 7 natural market sectors across 90 global stocks with no labels — portfolio builder, risk detector & crash analyser included | scikit-learn, K-Means, PCA, yfinance |
+| 🚗 [**Car Price Prediction**](https://github.com/senseihx4/car-price-prediction-ml) | Linear Regression (NumPy from scratch) → Random Forest → XGBoost · **R²=0.94** · **[Live demo](https://motor-volt.onrender.com/predict/)** on MotorVault | NumPy, scikit-learn, XGBoost, Django |
+| 🗂️ [**All My ML Notebooks**](https://github.com/senseihx4/All-Of-My-ML-Notebooks-That-I-Created-While-Learning) | Every notebook from my 9 ML bootcamps — supervised, unsupervised, CNNs, LSTM, stock predictor | PyTorch, scikit-learn, Jupyter |
+| 🎙️ [**Audio Transcriber**](https://github.com/senseihx4/audio-transcriber) | Transcribes audio files to text using **OpenAI Whisper** | Python, Whisper |
+| 🕷️ **Web Scraper** *(in progress)* | Data pipeline scraping real-world structured data | Python, BeautifulSoup/Selenium |
 
 ### 🔌 APIs & Backend
 
@@ -65,12 +104,6 @@
 |---|---|---|
 | 🪪 [**Office ID Card Generator**](https://github.com/senseihx4/Drf-projec-create-office--id-card-and-send-toemail) | DRF API that **generates office ID cards** and emails them automatically | DRF, Python |
 | 📄 [**Student Result API**](https://github.com/senseihx4/student-result-api-with-pdf-send-to-email) | REST API that **generates result PDFs and emails** them to students | Django, DRF |
-
-### 🤖 AI / ML
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🎙️ [**audio-transcriber**](https://github.com/senseihx4/audio-transcriber) | Transcribes audio files to text using **AI speech recognition** | Python, Whisper |
 
 ---
 
@@ -103,8 +136,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-sharma-023a85322/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartik7087@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/senseihx4)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kartik.hx4)
 
 </div>
 
