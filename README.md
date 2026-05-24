@@ -74,7 +74,7 @@ I'm a **Python Full Stack Developer** and self-taught AI/ML engineer based in Ch
 | Project | Description | Tech Stack |
 |---|---|---|
 | ⚡ [**Motor-Volt**](https://github.com/kartik-sharma-dev/Motor-Volt-Car-Marketplace-Django) | Full Django car sales platform — OTP email auth, multi-image listings, admin dashboard & **AI-powered price predictor** · **[Live on Render](https://motor-volt.onrender.com)** | Django, Brevo API, ML, SQLite |
-| 🧚 [**Fairy World Kids Subscription**](https://github.com/kartik-sharma-dev/Fairy-World-Subscription-Platform) | Full-stack **kids membership platform** — parents register their child, choose a fairy, pay via **Stripe**, and unlock podcasts, videos & fairy mail · **[Live on Render](https://fairy-club-1.onrender.com)** | Django, Stripe, WebSockets, PostgreSQL, Daphne |
+| 🧚 [**Fairy World  Subscription**](https://github.com/kartik-sharma-dev/Fairy-World-Subscription-Platform) | Full-stack **kids membership platform** — parents register their child, choose a fairy, pay via **Stripe**, and unlock podcasts, videos & fairy mail · **[Live on Render](https://fairy-club-1.onrender.com)** | Django, Stripe, WebSockets, PostgreSQL, Daphne |
 | 🖥️ [**AnyDesk Clone**](https://github.com/kartik-sharma-dev/AnyDesk-Clone-Python-Socket-Programming) | Remote desktop app built from scratch with **Python TCP socket programming** — streams screen & controls mouse/keyboard remotely | Python, Sockets, PyAutoGUI |
 
 ### 🤖 AI / ML
