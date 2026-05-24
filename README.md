@@ -50,10 +50,21 @@ I'm a **Python Full Stack Developer** and self-taught AI/ML engineer based in Ch
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
  
-### Currently Exploring
+### Data & Scraping
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-43B02A?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
+ 
+### NLP & Trading
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
 ![Alpaca API](https://img.shields.io/badge/Alpaca%20Markets-FFCD00?style=for-the-badge&logo=python&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+ 
+### 🔭 Currently Exploring
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=anthropic&logoColor=white)
  
 ---
  
