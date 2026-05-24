@@ -73,33 +73,33 @@ I'm a **Python Full Stack Developer** and self-taught AI/ML engineer based in Ch
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| ⚡ [**Motor-Volt**](https://github.com/senseihx4/Motor-Volt-Car-Marketplace-Django) | Full Django car sales platform — OTP email auth, multi-image listings, admin dashboard & **AI-powered price predictor** · **[Live on Render](https://motor-volt.onrender.com)** | Django, Brevo API, ML, SQLite |
-| 🧚 [**Fairy World Kids Subscription**](https://github.com/senseihx4/Fairy-World-Subscription-Platform) | Full-stack **kids membership platform** — parents register their child, choose a fairy, pay via **Stripe**, and unlock podcasts, videos & fairy mail · **[Live on Render](https://fairy-club-1.onrender.com)** | Django, Stripe, WebSockets, PostgreSQL, Daphne |
-| 🖥️ [**AnyDesk Clone**](https://github.com/senseihx4/AnyDesk-Clone-Python-Socket-Programming) | Remote desktop app built from scratch with **Python TCP socket programming** — streams screen & controls mouse/keyboard remotely | Python, Sockets, PyAutoGUI |
+| ⚡ [**Motor-Volt**](https://github.com/kartik-sharma-dev/Motor-Volt-Car-Marketplace-Django) | Full Django car sales platform — OTP email auth, multi-image listings, admin dashboard & **AI-powered price predictor** · **[Live on Render](https://motor-volt.onrender.com)** | Django, Brevo API, ML, SQLite |
+| 🧚 [**Fairy World Kids Subscription**](https://github.com/kartik-sharma-dev/Fairy-World-Subscription-Platform) | Full-stack **kids membership platform** — parents register their child, choose a fairy, pay via **Stripe**, and unlock podcasts, videos & fairy mail · **[Live on Render](https://fairy-club-1.onrender.com)** | Django, Stripe, WebSockets, PostgreSQL, Daphne |
+| 🖥️ [**AnyDesk Clone**](https://github.com/kartik-sharma-dev/AnyDesk-Clone-Python-Socket-Programming) | Remote desktop app built from scratch with **Python TCP socket programming** — streams screen & controls mouse/keyboard remotely | Python, Sockets, PyAutoGUI |
 
 ### 🤖 AI / ML
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 📈 [**AI Stock Trading Bot**](https://github.com/senseihx4/Algorithmic-Stock-Trading-Bot-LSTM-Alpaca) | LSTM neural net → real paper trades via Alpaca · FastAPI server · Honest eval: **57.8% BUY accuracy** vs the misleading 97% price accuracy most projects hide behind | PyTorch, FastAPI, Alpaca API, yfinance |
-| 📊 [**Stock Market Clustering**](https://github.com/senseihx4/Stock-Market-Clustering-KMeans-PCA-Python) | Discovers 7 natural market sectors across 90 global stocks with **zero labels** — portfolio builder, risk detector & crash analyser included | scikit-learn, K-Means, PCA, yfinance |
-| 🚗 [**Car Price Prediction**](https://github.com/senseihx4/Car-Price-Prediction-ML-XGBoost-RandomForest) | Linear Regression (NumPy from scratch) → Random Forest → XGBoost · **R²=0.94** · **[Live demo](https://motor-volt.onrender.com/predict/)** | NumPy, scikit-learn, XGBoost |
-| 🖼️ [**CIFAR-10 Image Classifier**](https://github.com/senseihx4/Image-Tester-CNN-CIFAR-10-Classifier) | Fine-tuned **ResNet18 (~80%)** and **ResNet50 (~83%)** on CIFAR-10 across 10 image categories | PyTorch, torchvision, Apple MPS |
-| 🏏 [**IPL Cricket Chatbot**](https://github.com/senseihx4/IPL-2026-Cricket-Chatbot-NLP-TF-IDF) | NLP-powered Q&A chatbot for IPL 2026 — TF-IDF cosine similarity + RapidFuzz scoring | Python, Streamlit, scikit-learn, RapidFuzz |
-| 🎙️ [**Audio Transcriber**](https://github.com/senseihx4/Audio-Transcriber-Python-AssemblyAI) | Records mic audio and transcribes it to text via the **AssemblyAI API** | Python, AssemblyAI, PyAudio |
+| 📈 [**AI Stock Trading Bot**](https://github.com/kartik-sharma-dev/Algorithmic-Stock-Trading-Bot-LSTM-Alpaca) | LSTM neural net → real paper trades via Alpaca · FastAPI server · Honest eval: **57.8% BUY accuracy** vs the misleading 97% price accuracy most projects hide behind | PyTorch, FastAPI, Alpaca API, yfinance |
+| 📊 [**Stock Market Clustering**](https://github.com/kartik-sharma-dev/Stock-Market-Clustering-KMeans-PCA-Python) | Discovers 7 natural market sectors across 90 global stocks with **zero labels** — portfolio builder, risk detector & crash analyser included | scikit-learn, K-Means, PCA, yfinance |
+| 🚗 [**Car Price Prediction**](https://github.com/kartik-sharma-dev/Car-Price-Prediction-ML-XGBoost-RandomForest) | Linear Regression (NumPy from scratch) → Random Forest → XGBoost · **R²=0.94** · **[Live demo](https://motor-volt.onrender.com/predict/)** | NumPy, scikit-learn, XGBoost |
+| 🖼️ [**CIFAR-10 Image Classifier**](https://github.com/kartik-sharma-dev/Image-Tester-CNN-CIFAR-10-Classifier) | Fine-tuned **ResNet18 (~80%)** and **ResNet50 (~83%)** on CIFAR-10 across 10 image categories | PyTorch, torchvision, Apple MPS |
+| 🏏 [**IPL Cricket Chatbot**](https://github.com/kartik-sharma-dev/IPL-2026-Cricket-Chatbot-NLP-TF-IDF) | NLP-powered Q&A chatbot for IPL 2026 — TF-IDF cosine similarity + RapidFuzz scoring | Python, Streamlit, scikit-learn, RapidFuzz |
+| 🎙️ [**Audio Transcriber**](https://github.com/kartik-sharma-dev/Audio-Transcriber-Python-AssemblyAI) | Records mic audio and transcribes it to text via the **AssemblyAI API** | Python, AssemblyAI, PyAudio |
 
 ### 🔌 APIs & Backend
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🪪 [**Office ID Card Generator**](https://github.com/senseihx4/Office-ID-Card-PDF-Generator-Email-DRF-API) | DRF API that generates **PDF office ID cards** with hand-drawn signature support and emails them automatically | Django, DRF, Pillow, SMTP |
-| 📄 [**Student Result API**](https://github.com/senseihx4/Student-Result-PDF-Email-DRF-API) | REST API that generates **student result PDFs** and emails them directly to students | Django, DRF, ReportLab |
+| 🪪 [**Office ID Card Generator**](https://github.com/kartik-sharma-dev/Office-ID-Card-PDF-Generator-Email-DRF-API) | DRF API that generates **PDF office ID cards** with hand-drawn signature support and emails them automatically | Django, DRF, Pillow, SMTP |
+| 📄 [**Student Result API**](https://github.com/kartik-sharma-dev/Student-Result-PDF-Email-DRF-API) | REST API that generates **student result PDFs** and emails them directly to students | Django, DRF, ReportLab |
 
 ### 🕷️ Data & Scraping
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🏠 [**MagicBricks Property Scraper**](https://github.com/senseihx4/MagicBricks-Property-Scraper-Selenium-Python) | Scrapes residential property listings from MagicBricks — price, area, floor, furnishing & more → exports to CSV | Python, Selenium, Jupyter |
+| 🏠 [**MagicBricks Property Scraper**](https://github.com/kartik-sharma-dev/MagicBricks-Property-Scraper-Selenium-Python) | Scrapes residential property listings from MagicBricks — price, area, floor, furnishing & more → exports to CSV | Python, Selenium, Jupyter |
 
 ---
 
@@ -107,11 +107,7 @@ I'm a **Python Full Stack Developer** and self-taught AI/ML engineer based in Ch
 
 <div align="center">
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senseihx4&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senseihx4&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=senseihx4&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kartik-sharma-dev&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -120,7 +116,7 @@ I'm a **Python Full Stack Developer** and self-taught AI/ML engineer based in Ch
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=senseihx4&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kartik-sharma-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -130,14 +126,14 @@ I'm a **Python Full Stack Developer** and self-taught AI/ML engineer based in Ch
 <div align="center">
   <a href="https://www.linkedin.com/in/kartik-sharma-023a85322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:kartik7087@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://github.com/senseihx4"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://github.com/kartik-sharma-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="https://instagram.com/kartik.hx4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=senseihx4&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kartik-sharma-dev&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 *Open to internships, full-time SDE roles, and open source collaboration.*
 </div>
