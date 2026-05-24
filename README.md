@@ -110,11 +110,13 @@ I'm a **Python Full Stack Developer** and self-taught AI/ML engineer based in Ch
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senseihx4&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Kartik's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senseihx4&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=senseihx4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senseihx4&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senseihx4&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=senseihx4&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
